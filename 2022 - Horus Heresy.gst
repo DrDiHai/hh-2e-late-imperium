@@ -9980,9 +9980,6 @@ Hull Mounted (Rear) Mounted Twin-linked Heavy Bolter or Heavy Flamers</character
       </costs>
     </selectionEntry>
     <selectionEntry id="d2db-7598-f55f-86fe" name="Power Weapon" hidden="false" collective="false" import="true" type="upgrade">
-      <constraints>
-        <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fdd9-c0b0-fde1-c145" type="max"/>
-      </constraints>
       <entryLinks>
         <entryLink id="cf56-2470-b3af-54ab" name="Power Weapon" hidden="false" collective="false" import="true" targetId="5ff5-48c0-b9f1-5a05" type="selectionEntryGroup"/>
       </entryLinks>
@@ -10016,9 +10013,6 @@ Hull Mounted (Rear) Mounted Twin-linked Heavy Bolter or Heavy Flamers</character
       </costs>
     </selectionEntry>
     <selectionEntry id="4d02-259d-fa50-ef3a" name="Magna Combi-weapon" hidden="false" collective="false" import="true" type="upgrade">
-      <constraints>
-        <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9855-fd69-eb95-2c52" type="max"/>
-      </constraints>
       <entryLinks>
         <entryLink id="d0d4-8e98-6022-b5bb" name="Magna Combi-weapon" hidden="false" collective="false" import="true" targetId="2286-9fb3-e845-f24a" type="selectionEntryGroup"/>
       </entryLinks>
