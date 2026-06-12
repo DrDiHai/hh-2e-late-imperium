@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue library="false" id="1e71-4f7b-3902-78a0" name="Adepta Sororitas" gameSystemId="28d4-bd2e-4858-ece6" gameSystemRevision="129" revision="1" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue library="false" id="1e71-4f7b-3902-78a0" name="Adepta Sororitas" gameSystemId="sys-fdcf-e292-36cf-295f" gameSystemRevision="129" revision="1" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <sharedSelectionEntries>
     <selectionEntry type="unit" import="true" name="Sororitas Battle Sisters Squad" hidden="false" id="d35c-d989-ab5c-a474" publicationId="d640-eeef-2bd8-23c7" page="23">
       <categoryLinks>
